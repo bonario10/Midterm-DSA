@@ -398,14 +398,14 @@ void printOpening() {
 	cout << "Here is the instructions" << endl;
 	
     cout << "(Example of sqrt, log, ln) " << endl;
-    cout << "r7 means sqrt(7)" << endl;
-    cout << "l100 means log(100)" << endl;
-    cout << "n11 means ln(11)" << endl << endl;
+    cout << "r7 = sqrt(7)" << endl;
+    cout << "l100 = log(100)" << endl;
+    cout << "n11 = ln(11)" << endl << endl;
     
     cout << "(Example of trigonometry) " << endl;
-    cout << "s30 means sin(30)" << endl;
-    cout << "c60 means cos(60)" << endl;
-    cout << "t90 means tan(90)" << endl << endl;
+    cout << "s30 = sin(30)" << endl;
+    cout << "c60 = cos(60)" << endl;
+    cout << "t90 = tan(90)" << endl << endl;
 }
 
 int main()
