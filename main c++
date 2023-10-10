@@ -390,8 +390,8 @@ class history
 };
 
 void printOpening() {
-    	cout << "GROUP 6 SCIENTIFIC CALCULATOR!" << endl << endl;
-	cout << "Enter X to exit the program" << endl;
+    	cout << "GROUP 5 SCIENTIFIC CALCULATOR" << endl << endl;
+    cout << "Enter X to exit the program" << endl;
     cout << "Enter H to view history" << endl;
     cout << "Enter E to Erase all history" << endl;
     cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
